@@ -1,4 +1,5 @@
 # オンライン追悼文集 (provisional title)
+&nbsp;
 
 ## それいけ！谷川さん (国立天文台水沢 菊池幸子) [PDF](./IntlLatObs/Sachiko_Kikuchi.pdf)
 
